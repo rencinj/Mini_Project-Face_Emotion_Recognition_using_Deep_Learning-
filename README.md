@@ -3,6 +3,7 @@
 This mini-project demonstrates how deep learning techniques can be used to recognize human facial emotions from images or webcam video streams. The model classifies facial expressions into categories like happy, sad, angry, surprised, neutral, etc.
 
 📌** **Table of Contents****
+
 **Overview**
 
 **Project Structure**
