@@ -24,10 +24,11 @@ This mini-project demonstrates how deep learning techniques can be used to recog
 
 **License**
 
-🧠** **Overview****
+🧠 **Overview**
+
 This project utilizes convolutional neural networks (CNNs) for real-time facial emotion recognition. The goal is to train a model that can accurately detect and classify human emotions from facial expressions using a webcam or image input.
 
-Emotions classified:
+**Emotions classified**:
 
 Angry
 
